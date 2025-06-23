@@ -1,0 +1,57 @@
+h1{
+    text-align: center;
+    font-size:larger;
+    color:#333;
+}
+P{
+    text-align:center;
+
+}
+body{
+    background-color: ghostwhite;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+}
+.container{
+    max-width:800px;
+    margin:auto;
+    padding:2rem;
+}
+.grid{
+    display:flex;
+    flex-direction: row;
+    gap:30px;
+}
+.sidebar{
+ flex:1;
+ background:white;
+ padding:1rem;
+ border-radius:10px;
+}
+#post-list > div {
+padding:0.5rem;
+cursor:pointer;
+border-bottom:1px solid #ccc;
+}
+form{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    margin-top:1rem;
+}
+input, textarea {
+    padding:0.5rem;
+    border:2px;
+    border-radius:5px;
+}
+button{
+  background-color:aliceblue;  
+    color:black;
+    padding:0.5rem;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+button:hover{
+    background-color:lightblue;
+}

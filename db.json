@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "1250",
+      "title": "Data Science ",
+      "author": "KICD",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/635f79fbf214917bd2876e03/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "content": "In today's digital age, data is everwhere. But how do we make sense of it all ? That's where data science comes in."
+    },
+    {
+      "id": "cf8e",
+      "title": "Why learn JavaScript in 2025",
+      "author": "Abby Webster",
+      "image": "https://files.ably.io/ghost/prod/2023/12/choosing-the-best-javascript-frameworks-for-your-next-project.png",
+      "content": "JavaScript is the language of the web. From interactive websites to full web apps, JavaScript makes things come alive."
+    },
+    {
+      "id": "eec4",
+      "title": "Nairobi",
+      "author": "Brench Maina",
+      "image": "https://res.cloudinary.com/hq1x04bri/image/upload/v1/media/profile_images/nairobi-city-walk_lwoo9h",
+      "content": "Nairobi is a beautiful city. The only city with a park"
+    },
+    {
+      "id": "3fcf",
+      "title": "Fourteen falls",
+      "author": "Shix",
+      "image": "https://africanspicesafaris.com/wp-content/uploads/2020/06/14-falls-day-tour-safari.gif",
+      "content": "The falls has 14 distinct waterfalls.The falls are a popular tourist attraction."
+    }
+  ]
+}
